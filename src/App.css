@@ -1,37 +1,3 @@
-
 section{
-    display: flex;
-
-    margin: 50px;
-}
-
-
-.bOne{
-    width: 250px;
-    height: 250px;
-    background-color: orange;
-
-    border-radius: 50px;
-    box-shadow: 10px 10px 20px gray;
-
-    border: 5px dotted black;
-}
-.bTwo{
-    width: 250px;
-    height: 250px;
-    background-color: darkcyan;
-
-    margin-left: 20px;
-}
-
-.header{
-    width: 980px;
-    height: 50px;
-    background-color: gray;
-
-    background-image: linear-gradient(to bottom, red, blue);
-    border-radius: 25px;
-    box-shadow: 10px 10px 20px gray;
-
-    margin: 20px;
+    width: 450px;
 }
